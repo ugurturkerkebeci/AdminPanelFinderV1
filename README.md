@@ -3,31 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel Bulucu Uygulaması</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-        code {
-            font-family: Consolas, monospace;
-            background-color: #f4f4f4;
-            padding: 5px;
-            border-radius: 3px;
-        }
-    </style>
+   
+    
 </head>
 <body>
     <h1>Admin Panel Bulucu Uygulaması</h1>
-    <p>Merhaba! Ben, [İsminiz], admin paneli bulucu bir Python uygulaması geliştirdim. Bu program, belirli bir URL üzerinde belirtilen anahtar kelimeleri kullanarak potansiyel admin panellerini taramak için tasarlandı.</p>
+    <p>Admin paneli bulucu bir Python uygulamasıdır. Bu program, belirli bir URL üzerinde belirtilen anahtar kelimeleri kullanarak potansiyel admin panellerini taramak için tasarlandı.</p>
     <h2>Nasıl Çalışır?</h2>
     <ul>
         <li>Kullanıcı, taranacak URL'yi girdikten sonra program, bir dosyadan alınan anahtar kelimeleri kullanarak tarama işlemini gerçekleştirir.</li>
